@@ -158,4 +158,4 @@ if __name__ == '__main__':
     tcp = TCPPacket()
     tcp.assemble_tcp_fields()
 
-    s.sendto(tcp.raw, ('127.0.0.1' , 0 ))
+    s.sendto(tcp.raw, ('127.0.0.105' , 0 ))
