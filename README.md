@@ -1,7 +1,7 @@
 # Scapy-Clone
+------------------------------------------
 An attempt to emulate some functions of scapy
 
-------------------------------------------
 ### Introduction
 
 In one line - Scapy is a Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3. 
@@ -28,5 +28,3 @@ The functions for scapy are briefly defined in the introduction. Going into a li
 - [@nilshah98](https://github.com/nilshah98)
 - [@greevashah](https://github.com/greevashah)
 - [@nurdtechie98](https://github.com/nurdtechie98)
-
--------------------------------------------
