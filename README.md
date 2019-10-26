@@ -20,10 +20,27 @@ The functions for scapy are briefly defined in the introduction. Going into a li
 </div>
 
 ###
+
 - Version
 - Length
 - Flags
 - Ttl
+
+<h3 > Screenshots </h3>
+<div align="center">
+<img src ="./screenshots/ss1.PNG" width = 600px height = 400px>
+<br>
+<img src ="./screenshots/ss2.PNG">
+<img src ="./screenshots/ss3.PNG">
+<br>
+<img src ="./screenshots/ss4.PNG">
+<img src ="./screenshots/ss6.PNG">
+<br>
+<img src ="./screenshots/ss7.PNG">
+<img src ="./screenshots/ss8.PNG">
+<br>
+</div>
+
 
 <h3>Contributors</h3>
 
